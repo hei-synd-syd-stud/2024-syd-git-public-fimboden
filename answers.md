@@ -16,6 +16,6 @@
 
 ## Gitgraph
 
-### Task 7:
+### Task 7: 1-> Name des Branches; 2->Commit ID; 3-> Commit Beschreibung; 4->Zeigt an, welcher Autor die Änderung durchgeführt hat; 5->Gibt auskunft über die Version des Codes; 6->Ein Bereich indem Änderungen vorgenommen werden, bevor sie wieder in den main-Branch integriert werden; 7->Commit auf dem feature-auth Branche; 8->Punkt in dem Merge zusammengeführt wird develop into main; 9-> Ableitung von Develope Branche von dem main Branche; 10-> Ausgangspunkt des main Branches (Erster Commit).
 
-![Gitgraph](img/gitgraph.svg)
+1. Von hier aus wurde der Develope Branche vom Main Branche abgeleitet.Ableitung von ![Gitgraph](img/gitgraph.svg)
